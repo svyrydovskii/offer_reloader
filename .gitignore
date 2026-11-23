@@ -1,0 +1,8 @@
+creds.py
+tokens.*.json
+__pycache__/
+.DS_Store
+manual_offers_*.csv
+.venv/
+offer_reloader.zip
+.idea/
